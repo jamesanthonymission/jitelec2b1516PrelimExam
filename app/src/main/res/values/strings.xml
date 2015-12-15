@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Prelim Exam</string>
     <string name="action_settings">Settings</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="SbarTV">100</string>
+    <string name="textView">0</string>
+
 </resources>
